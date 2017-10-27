@@ -4,3 +4,4 @@ Tonight is a hungry night;
 Tonight is a late night
 Today is the secondday;
 Today is a unlucky day;
+Today is Friday;
