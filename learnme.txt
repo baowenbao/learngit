@@ -5,3 +5,5 @@ Tonight is a late night
 Today is the secondday;
 Today is a unlucky day;
 Today is Friday;
+Friday is a lucky day;
+
